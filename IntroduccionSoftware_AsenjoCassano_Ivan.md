@@ -18,7 +18,7 @@ Se puede decir que la diferencia entre estos 3 conceptos, que forman entre sí u
 
 Las etapas del desarrollo del software, son un conjunto de fases que van desde la concepción de la idea inicial hasta el uso y mejora del producto. Esto también se lo conoce como Ciclo de vida de desarrollo de software y consta de 7 etapas principales:
 
-![7 Etapas de desarrollo de software](/home/ivangamer/Escritorio/DAM/github/1DAMV_AsenjoCassano_Ivan/images/7fases_SDLC_infografia.jpg)
+![7 Etapas de desarrollo de software](https://github.com/devasenjo/1DAMV_AsenjoCassano_Ivan/blob/main/images/7fases_SDLC_infografia.jpg)
 * Planificación. Define los objetivos claros del proyecto e identifica lo que se necesita para lograr dichos objetivos. Se tienen en cuenta necesidades y expectativas de la parte interesada y la viabilidad del proyecto para decidir como compilar.
 * El planteamiento garantiza que todos los implicados comprenden todas las dimensiones del proyecto, lo que es esencial para evitar problemas técnicos, retrasos o la cancelación del proyecto.
 Análisis.Se debe analizar cada requisito de software para determinar como va a funcionar la solución, gracias a este análisis se pueden crear unas especificaciones del sistema que permitan el desarrollo a posteriore del proyecto.
